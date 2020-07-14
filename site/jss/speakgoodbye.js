@@ -27,4 +27,4 @@
 	global.byeSpeaker = byeSpeaker;
 	// xxxx.xxxx = byeSpeaker;
 
-})();
+})(window);
